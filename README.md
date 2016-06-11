@@ -6,3 +6,4 @@
  ![rplot](https://cloud.githubusercontent.com/assets/14057932/15985130/22c7cf80-2fa9-11e6-8c4e-8f0cd123dfda.png)
 ##The output
  There are two csv files, first one is titanic_original.csv and second one is tatanic_clean.csv. Second csv is generated from the R code, called 'titanic.r' here. Have fun.
+![titanic data](https://cloud.githubusercontent.com/assets/14057932/15985172/6db14a84-2faa-11e6-95a8-2009a62af16a.png)
