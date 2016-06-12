@@ -1,3 +1,5 @@
+# Author: Zhuangfang Yi, find me on: http://geoyi.org.
+
 setwd("C:/Data Science Fundation with R/Springboard GitHub")
 list.files("C:/Data Science Fundation with R/Springboard GitHub")
 titanic <- read.table('titanic_original.csv',header = TRUE, sep = ",")
